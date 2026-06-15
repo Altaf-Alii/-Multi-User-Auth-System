@@ -1,0 +1,9 @@
+{
+    "Sultan": {
+        "email": "sultan@gmail.com",
+        "password": "ad0a071534e476bea0c5185029eef6eb54c2b487fd2ac386bf5006ed3f298799",
+        "role": "admin",
+        "login_attempts": 0,
+        "locked": false
+    }
+}
